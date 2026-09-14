@@ -1,4 +1,5 @@
-#  Write a program to display your infomation like (full name, branch, university name, Age, 12th %, hobbies). Store each value into some meaningful variable. 
+#  Write a program to display your information like (full name, branch, university 
+# name, Age, 12th %, hobbies). Store each value into some meaningful variable. 
 
 #25/8/26
 
@@ -7,7 +8,7 @@ branch = "MCA"
 university_name = "NIT Jamshedpur"
 age = 21
 perc_12th = 94.6
-hobbies = ["badminton", "watching movies", "playing games"]
+hobbies = ("badminton", "watching movies", "playing games")
 
 print("Name:" , name)
 print("Branch: " + branch)
