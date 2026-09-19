@@ -3,13 +3,13 @@
 amount = int(input("Enter the withdrawal amount: "))
 
 notes_100 = amount // 100
-# remaining = amount % 100
+remaining = amount % 100
 
-notes_50 = amount // 50
-# remaining = remaining % 50
+notes_50 = remaining // 50
+remaining = remaining % 50
 
-notes_10 = amount // 10
-# remaining = remaining % 10
+notes_10 = remaining // 10
+remaining = remaining % 10
 
 print(f"Number of 100 notes: {notes_100}")
 print(f"Number of 50 notes: {notes_50}")
