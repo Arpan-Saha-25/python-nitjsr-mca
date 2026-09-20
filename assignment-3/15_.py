@@ -34,3 +34,6 @@ if 100000 <= n <= 999999:
         print("Invalid OTP")
 else:
     print("Invalid OTP")
+    
+# Enter a number: 123456
+# Valid OTP

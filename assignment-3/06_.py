@@ -14,3 +14,6 @@ else:
     tax = basic * 30 / 100
 
 print("Income Tax =", tax)
+
+# Enter annual basic salary: 170000 
+# Income Tax = 34000.0

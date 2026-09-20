@@ -26,3 +26,7 @@ lcm = (n * m) // hcf
 print("HCF of", n, "and", m, "is", hcf)
 print("LCM of", n, "and", m, "is", lcm)
 
+# Enter n: 10
+# Enter m: 25
+# HCF of 10 and 25 is 5
+# LCM of 10 and 25 is 50
