@@ -12,7 +12,7 @@ while(True):
     if X > Y:
         print("Invalid input.")
         continue
-    break;
+    break
 
 if sum >= X or sum <= Y:
     print("\nIn the range. True")
